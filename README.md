@@ -67,6 +67,14 @@ service yaml file
 
 ![z](https://user-images.githubusercontent.com/86315031/182578495-a06b2b5f-6732-47c0-92dd-97cdf794b1d6.png)
 
+run kubectl apply -f jenkinsedeployment.yml -n jenkins
+
+run kubectl apply -f service.yml -n jenkins
+
+take service external ip 
+
+![z](https://user-images.githubusercontent.com/86315031/182580309-ded93dcf-c263-4ab1-ae97-d7602bedf0bb.png)
+
 
 
 

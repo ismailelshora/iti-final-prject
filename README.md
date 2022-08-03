@@ -37,6 +37,19 @@ node pool
 
 ![z](https://user-images.githubusercontent.com/86315031/182573557-adfaebb8-6d99-4275-9040-18d20cf54cfc.png)
 
+#### create the infrastructure 
+
+1) terraform init
+
+![z](https://user-images.githubusercontent.com/86315031/182574270-4c6d87fd-0c39-4788-844e-5b695f1d17c7.png)
+
+2) terraform apply
+
+![z](https://user-images.githubusercontent.com/86315031/182574691-ead47b51-b828-485f-9b9d-acb5cc239f5e.png)
+
+
+
+
 
 
 

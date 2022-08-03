@@ -24,6 +24,17 @@
 
 ![z](https://user-images.githubusercontent.com/86315031/182571975-7f07304f-fafc-4533-b9e9-4bdf6b4a59f5.png)
 
+6) gke and node pool
+
+![z](https://user-images.githubusercontent.com/86315031/182572485-9d390b7e-da46-4aac-9b1f-3f32b6f63f0e.png)
+![z](https://user-images.githubusercontent.com/86315031/182572688-88dc3dc0-8e2b-410d-afdf-9f1dd5c25461.png)
+
+node pool
+
+![z](https://user-images.githubusercontent.com/86315031/182572892-a00fb9f5-7ede-4136-a6d9-a326c16a5c3b.png)
+
+
+
 
 
 

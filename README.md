@@ -75,6 +75,7 @@ take service external ip
 
 ![z](https://user-images.githubusercontent.com/86315031/182580309-ded93dcf-c263-4ab1-ae97-d7602bedf0bb.png)
 
+![x](https://user-images.githubusercontent.com/86315031/182580751-631ae85e-7b8a-4950-895e-19c40273d976.png)
 
 
 

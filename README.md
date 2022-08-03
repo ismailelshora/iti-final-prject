@@ -6,9 +6,10 @@
 
 1) setting GCP as my provider
 
-![z](https://user-images.githubusercontent.com/86315031/182568563-ef4d2963-2d88-4b2b-a653-c4310b8386b3.png)
-
+![z](https://user-images.githubusercontent.com/86315031/182568854-3eb71a8c-1a83-4506-bec3-5550731bd7fa.png)
 
 2) network ( vpc , subnets )
+
+![z](https://user-images.githubusercontent.com/86315031/182569030-fad2d0da-a3da-47dd-8587-bcbda4dc9a04.png)
 
 

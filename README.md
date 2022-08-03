@@ -20,5 +20,10 @@
 
 ![z](https://user-images.githubusercontent.com/86315031/182569378-4573816f-f486-424b-bea9-f3e42e29c500.png)
 
+5) bastion server for mange GKE cluster
+
+![z](https://user-images.githubusercontent.com/86315031/182571975-7f07304f-fafc-4533-b9e9-4bdf6b4a59f5.png)
+
+
 
 

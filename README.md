@@ -33,6 +33,11 @@ node pool
 
 ![z](https://user-images.githubusercontent.com/86315031/182572892-a00fb9f5-7ede-4136-a6d9-a326c16a5c3b.png)
 
+7 )service account to connect bastion with gke and node pool with gke
+
+![z](https://user-images.githubusercontent.com/86315031/182573557-adfaebb8-6d99-4275-9040-18d20cf54cfc.png)
+
+
 
 
 

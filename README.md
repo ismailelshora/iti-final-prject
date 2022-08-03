@@ -47,6 +47,14 @@ node pool
 
 ![z](https://user-images.githubusercontent.com/86315031/182574691-ead47b51-b828-485f-9b9d-acb5cc239f5e.png)
 
+### connect to bastion vm 
+
+![z](https://user-images.githubusercontent.com/86315031/182575488-e35e2f9f-0ffc-4b64-9cf7-37d52c698d8b.png)
+
+### Deploy jenkins 
+
+1) dopyment yaml files 
+
 
 
 

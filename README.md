@@ -12,4 +12,13 @@
 
 ![z](https://user-images.githubusercontent.com/86315031/182569030-fad2d0da-a3da-47dd-8587-bcbda4dc9a04.png)
 
+3) natgatway and router to connect bastion and gke to internet
+
+![z](https://user-images.githubusercontent.com/86315031/182569948-feb08274-fca9-4eee-90df-8663e8d39976.png)
+
+4) firewall 
+
+![z](https://user-images.githubusercontent.com/86315031/182569378-4573816f-f486-424b-bea9-f3e42e29c500.png)
+
+
 

@@ -55,6 +55,13 @@ node pool
 
 1) dopyment yaml files 
 
+![y](https://user-images.githubusercontent.com/86315031/182576751-ad0066a2-52c5-4b88-bb31-940e985b3f7b.png)
+
+service yaml file
+
+![x](https://user-images.githubusercontent.com/86315031/182576887-043d7d50-38f9-461a-8ccc-fbf878b6d457.png)
+
+
 
 
 
